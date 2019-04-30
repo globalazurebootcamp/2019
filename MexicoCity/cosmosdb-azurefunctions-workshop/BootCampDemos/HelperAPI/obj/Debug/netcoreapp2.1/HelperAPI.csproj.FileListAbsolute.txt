@@ -1,0 +1,14 @@
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/bin/Debug/netcoreapp2.1/HelperAPI.deps.json
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/bin/Debug/netcoreapp2.1/HelperAPI.runtimeconfig.json
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/bin/Debug/netcoreapp2.1/HelperAPI.runtimeconfig.dev.json
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/bin/Debug/netcoreapp2.1/HelperAPI.dll
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/bin/Debug/netcoreapp2.1/HelperAPI.pdb
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.csprojAssemblyReference.cache
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.csproj.CoreCompileInputs.cache
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.RazorAssemblyInfo.cache
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.RazorAssemblyInfo.cs
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.AssemblyInfoInputs.cache
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.AssemblyInfo.cs
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.RazorTargetAssemblyInfo.cache
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.dll
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/HelperAPI/obj/Debug/netcoreapp2.1/HelperAPI.pdb

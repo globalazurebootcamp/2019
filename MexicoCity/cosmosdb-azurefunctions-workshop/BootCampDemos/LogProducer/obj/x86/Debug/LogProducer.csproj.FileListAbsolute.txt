@@ -1,0 +1,13 @@
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/bin/Debug/LogProducer.exe
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/bin/Debug/LogProducer.pdb
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/bin/Debug/Microsoft.Azure.KeyVault.Core.dll
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/bin/Debug/Microsoft.Azure.Storage.Common.dll
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/bin/Debug/Microsoft.Azure.Storage.Queue.dll
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/bin/Debug/Newtonsoft.Json.dll
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/bin/Debug/Microsoft.Azure.KeyVault.Core.xml
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/bin/Debug/Newtonsoft.Json.xml
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/obj/x86/Debug/LogProducer.csprojAssemblyReference.cache
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/obj/x86/Debug/LogProducer.csproj.CoreCompileInputs.cache
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/obj/x86/Debug/LogProducer.csproj.CopyComplete
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/obj/x86/Debug/LogProducer.exe
+/Users/hassan/Documents/MyData/GitHub/GlobalAzureBootCamp2019/BootCampDemos/LogProducer/obj/x86/Debug/LogProducer.pdb

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BF5CC2E6-B700-404B-9997-B7BDC35C5256}|Default">
+  <MonoDevelop.Ide.ItemProperties.LogProducer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogProducer/Models/LogModel.cs">
+    <Files>
+      <File FileName="LogProducer/Models/LogModel.cs" Line="21" Column="1" />
+      <File FileName="LogProducer/Helpers/LogProducer.cs" Line="1" Column="1" />
+      <File FileName="LogProducer/Program.cs" Line="19" Column="1" />
+      <File FileName="LogProducer/Helpers/StorageAccountConfig.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BootCampDemos" expanded="True">
+            <Node name="LogProducer" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="LogModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelperAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
